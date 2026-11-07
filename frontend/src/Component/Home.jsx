@@ -83,7 +83,7 @@ function Home() {
   const [event, setevent] = useState([])
 useEffect(() => {
   async function getdata() {
-    let data = await fetch('http://localhost:3000/event')
+    let data = await fetch('https://arman-ahmad.onrender.com/event')
     let res = await data.json()
   
    setevent(res)
