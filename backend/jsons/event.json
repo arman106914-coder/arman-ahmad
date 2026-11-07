@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "title": "Music Festival 2026",
+        "status": "live now",
+        "date": "2026-11-10",
+        "location": "Mumbai india",
+         "image: ":"https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=900&q=85"
+    },
+     {
+        "id": 2,
+        "title": "Tech Arman 2026",
+        "status": "Upcoming",
+        "date": "2026-11-15",
+        "location": "delhi india",
+         "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=900&q=85"
+    },
+     {
+        "id": 3,
+        "title": "Royal Weding Expo",
+        "status": "Popular",
+        "date": "2026-12-10",
+        "location": "banglore india",
+        "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=85"
+    },
+     {
+        "id": 1,
+        "title": "Art & Culter Fest",
+        "status": "Featured",
+        "date": "2026-11-25",
+        "location": "kolkata india",
+         "image": "https://images.unsplash.com/photo-1577083552431-6e5fd01aa342?auto=format&fit=crop&w=900&q=85"
+    }
+    
+    
+]
