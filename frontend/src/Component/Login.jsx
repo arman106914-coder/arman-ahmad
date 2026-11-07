@@ -16,7 +16,7 @@ const Login = () => {
     event.preventDefault()
     const userdata = {username,email,password}
     try{
-      const res = await fetch('http://localhost:3000/user',{
+      const res = await fetch('https://arman-ahmad.onrender.com/user',{
         method:'POST',
         headers:{
           'Content-Type':'application/json'
